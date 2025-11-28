@@ -1,1 +1,1 @@
-# "Revisando e aprofundando conhecimentos em Python" 
+# Revisando e aprofundando conhecimentos em Python 
